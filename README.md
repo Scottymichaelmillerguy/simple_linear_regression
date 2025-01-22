@@ -1,3 +1,2 @@
-# test
-testing if I can upload downloads from google collab to build my portfolio
-WE are going to see if this works then we are going to delete it. 
+# Implementing Linear Regression
+This is a code example showcasing how to use linear regression from Aman Kharwals really good book From ML Algorithms to GenAI & LLMs
